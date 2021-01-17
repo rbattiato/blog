@@ -472,6 +472,20 @@ ul {
     }
 }
 
+@media (max-width: 374px) {
+    .site-title a {
+        font-size: 1.375rem;
+    }
+
+    .header .site-description p {
+        margin-top: 4px;
+    }
+
+    .post-header .meta .date {
+        margin-right: 20px;
+    }
+}
+
 @media (max-width: 400px) {
     .header .nav.social {
         min-width: auto;
