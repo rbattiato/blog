@@ -27,34 +27,24 @@ pygmentscodefencesguesssyntax = true
 
 # Nav.
 [[menu.main]]
-name = "Home"
-url = "/"
+name = "Projects"
+url = "/projects"
 weight = 1
-
-[[menu.main]]
-name = "All posts"
-url = "/posts"
-weight = 2
 
 [[menu.main]]
 name = "About"
 url = "/about"
-weight = 3
+weight = 2
 
-[[menu.main]]
-name = "Tags"
-url = "/tags"
-weight = 4
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/_rbattiato"
 
 [[params.social]]
 name = "Github"
 icon = "github"
-url = "https://github.com/knadh/hugo-ink"
-
-[[params.social]]
-name = "RSS"
-icon = "rss"
-url = "/index.xml"
+url = "https://github.com/rbattiato"
 
 [taxonomies]
    tag = "tags"
