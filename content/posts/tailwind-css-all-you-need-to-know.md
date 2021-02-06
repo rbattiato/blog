@@ -1,7 +1,7 @@
 ---
 title: "Tailwind CSS — all you need to know to get started"
 date: "2021-02-05"
-description: "Learn about Tailwind CSS, what it is and what it is'nt, why and when to use it and how to get started quickly."
+description: "Learn about Tailwind CSS, what it is and what it isn't, why and when to use it and how to get started quickly."
 tags: [tailwindcss, framework, css]
 categories: [themes, syntax]
 ---
