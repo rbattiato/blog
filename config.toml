@@ -1,4 +1,4 @@
-baseURL = "https://battiato.dev"
+baseURL = "https://battiato.dev/"
 languageCode = "en-us"
 title = "Riccardo Battiato"
 theme = "ink"
