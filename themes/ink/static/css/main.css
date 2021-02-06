@@ -119,6 +119,10 @@ blockquote em {
     font-weight: 600;
 }
 
+code, kbd, pre, samp {
+    font-family: Consolas, Monaco, monospace;
+}
+
 
 h1, h2, h3, h4, h5, h6 {
     color: #333;
@@ -202,13 +206,8 @@ ul {
     margin-bottom: 0;
     margin-top: 0;
     padding: 20px;
-    background-color: transparent !important;
 }
 
-.highlight {
-    background: 0 0;
-    background-color: #FAFAFA;
-}
 
 .wrapper {
     max-width: 760px;
