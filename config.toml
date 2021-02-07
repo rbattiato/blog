@@ -16,7 +16,6 @@ pygmentscodefencesguesssyntax = true
 	subtitle = "Frontend Developer"
 	author = "Riccardo Battiato"
 	description = "Articles on web development and technology written by Riccardo Battiato."
-	images = ["android-icon-192x192.png"]
 	title = "Riccardo Battiato"
 
 	# Optional 64x64 avatar image.
