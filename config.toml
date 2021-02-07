@@ -6,7 +6,7 @@ paginate = 10
 
 copyright = "© Riccardo Battiato. All rights reserved"
 
-pygmentsstyle = "monokai"
+pygmentsstyle = "dracula"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
