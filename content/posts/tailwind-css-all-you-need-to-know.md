@@ -1,7 +1,7 @@
 ---
 title: "Tailwind CSS — all you need to know to get started"
 date: "2021-02-05"
-description: "Learn about Tailwind CSS, what it is and what it isn't, why and when to use it and how to get started quickly."
+description: "Learn about Tailwind CSS, what it is and what it isn't, how to get started and how to customize it according to your needs."
 tags: [tailwindcss, framework, css]
 categories: [themes, syntax]
 ---
@@ -337,8 +337,9 @@ If, in the example above, the default values were fine, you could extend them. E
 {{< highlight javascript >}}
 module.exports = {
   theme: {
-    /* ... overwriting utilities */
+    /* All the settings you want to overwrite stay outside */
     extend: {
+      /* Extend default parameters here */
       transitionDuration: {
         2000: '2000ms',
       },
