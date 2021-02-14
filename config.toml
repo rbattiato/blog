@@ -1,6 +1,7 @@
 baseURL = "https://battiato.dev/"
 languageCode = "en-us"
 title = "Riccardo Battiato"
+description = "Articles on web development and technology written by Riccardo Battiato."
 theme = "ink"
 paginate = 10
 
